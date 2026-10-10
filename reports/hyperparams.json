@@ -1,0 +1,6 @@
+{
+  "num_leaves": 63,
+  "learning_rate": 0.05,
+  "n_estimators": 50,
+  "val_pr_auc": 0.5456258655013948
+}

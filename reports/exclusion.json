@@ -1,0 +1,28 @@
+{
+  "n_rows": 32593,
+  "n_students": 28785,
+  "n_never_started": 2678,
+  "n_unregistered_on_day_0": 419,
+  "n_withdrawn_label_but_no_date": 93,
+  "final_result_counts": {
+    "Distinction": 3024,
+    "Fail": 7052,
+    "Pass": 12361,
+    "Withdrawn": 10156
+  },
+  "n_eligible_day_0": 29496,
+  "n_already_left_day_0": 419,
+  "base_rate_day_0": 0.4784038513696772,
+  "n_eligible_day_14": 28119,
+  "n_already_left_day_14": 1796,
+  "base_rate_day_14": 0.45286105480280237,
+  "n_eligible_day_28": 27538,
+  "n_already_left_day_28": 2377,
+  "base_rate_day_28": 0.44131745224780305,
+  "n_eligible_day_56": 26522,
+  "n_already_left_day_56": 3393,
+  "base_rate_day_56": 0.4199155418143428,
+  "n_eligible_day_84": 25724,
+  "n_already_left_day_84": 4191,
+  "base_rate_day_84": 0.40192038563209453
+}
